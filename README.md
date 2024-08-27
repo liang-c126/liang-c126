@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-/api?username=liang-c126
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **liang-c126/liang-c126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
