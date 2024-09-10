@@ -2,7 +2,7 @@
 
 [![liang-c126's github stats](https://github-readme-stats.vercel.app/api?username=liang-c126)](https://github.com/liang-c126/github-readme-stats)
 
-I made a lot of commits in this year but nothing is counted according to the interesting small card. <br>
+I made a lot of commits in this year but nothing is counted since they are contributions for private repos. <br>
 So I decided to commit more on the liang-c126 repository.
 
 <!--
