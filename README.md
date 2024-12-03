@@ -2,8 +2,12 @@
 
 [![liang-c126's github stats](https://github-readme-stats.vercel.app/api?username=liang-c126)](https://github.com/liang-c126/github-readme-stats)
 
+Hi.
+
+<!--
 I made a lot of commits in this year but nothing is counted since they are contributions for private repos. <br>
 So I decided to commit more on the liang-c126 repository.
+-->
 
 <!--
 **liang-c126/liang-c126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
